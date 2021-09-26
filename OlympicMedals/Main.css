@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#greyDiv{
+    background-color: gray;
+    color: white;
+    border: 2px dotted white;
+    display: flex;
+    width: 60%;
+}
+.box{
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+#MedalDiv{
+    width: 50%;
+}
+#DetailsDiv{
+    float: 1;
+    border-left: 2px dotted white;
+}
